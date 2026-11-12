@@ -1,4 +1,4 @@
-Sistema Web de Gestión Bibliográfica con Pruebas Automatizadas E2E
+# Sistema Web de Gestión Bibliográfica con Pruebas Automatizadas E2E
 
 Plataforma web diseñada para la administración y visualización centralizada de catálogos de autores y libros, conectada a una base de datos relacional. El proyecto incorpora una suite de pruebas automatizadas de extremo a extremo (E2E) que ejecuta y valida de forma autónoma todos los flujos CRUD, generando evidencia visual automática de cada paso ejecutado.
 
